@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Navaja Suiza</string>
+    <string name="calculator_title">Calculadora</string>
+    <string name="calc_clear">Limpiar</string>
+    <string name="calc_backspace">Borrar</string>
+    <string name="calc_history">Historial</string>
+    <string name="calc_history_empty">No hay cálculos previos</string>
+    <string name="calc_history_clear">Limpiar historial</string>
+    <string name="calc_history_cleared">Historial borrado</string>
+    <string name="calc_copied">Resultado copiado</string>
+    <string name="calc_error_division_zero">No se puede dividir por cero</string>
+    <string name="calc_error_invalid">Expresión inválida</string>
+    <string name="calc_scientific_more">Expandir funciones</string>
+    <string name="calc_scientific_less">Contraer funciones</string>
+    <string name="calc_copy_result">Copiar resultado</string>
+    <string name="calc_mode_deg">DEG</string>
+    <string name="calc_mode_rad">RAD</string>
+    <string name="calc_mode_inv">INV</string>
+</resources>

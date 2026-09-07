@@ -1,0 +1,6 @@
+{
+  "name": "Navaja Suiza",
+  "description": "Herramientas esenciales en una sola aplicación. Incluye una calculadora completa, precisa y moderna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
